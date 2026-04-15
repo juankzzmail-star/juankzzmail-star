@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Juan+Camilo+%F0%9F%91%8B;AI+Systems+Architect+%26+Automation+Strategist;Building+the+Technological+Backbone+of+Businesses;Mechatronics+Engineer+%7C+Founder+of+Antigravity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Juan+Camilo+%F0%9F%91%8B;AI+Systems+Architect+%26+Automation+Strategist;Building+the+Technological+Backbone+of+Businesses;Mechatronics+Engineer+%7C+Founder+of+Emergia" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```yaml
 role:        "AI Systems Architect & Automation Strategist"
-company:     "Antigravity (Automation Consultancy)"
+company:     "Emergia (Automation Consultancy)"
 location:    "Pereira, Colombia — Open to Remote"
 education:   "Mechatronics Engineering, 8th Semester @ UTP"
 languages:   ["Spanish (Native)", "English (C1)", "German (B1)"]
